@@ -1,0 +1,2998 @@
+fileFormatVersion: 2
+guid: 4a4ee91b61bd2014b8792499062bfba8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2736714128792651151
+    second: NewMegaEntSuperPro2_0
+  - first:
+      213: 4235193557183095084
+    second: NewMegaEntSuperPro2_1
+  - first:
+      213: 8021570351237655859
+    second: NewMegaEntSuperPro2_2
+  - first:
+      213: 357210908128870114
+    second: NewMegaEntSuperPro2_3
+  - first:
+      213: -7959287845751106964
+    second: NewMegaEntSuperPro2_4
+  - first:
+      213: 2360503070944797204
+    second: NewMegaEntSuperPro2_5
+  - first:
+      213: 261332350896247909
+    second: NewMegaEntSuperPro2_6
+  - first:
+      213: 4543827141679070819
+    second: NewMegaEntSuperPro2_7
+  - first:
+      213: -4779953373029466791
+    second: NewMegaEntSuperPro2_8
+  - first:
+      213: 4851956300542374295
+    second: NewMegaEntSuperPro2_9
+  - first:
+      213: 2134873376093409528
+    second: NewMegaEntSuperPro2_10
+  - first:
+      213: 7504358891437783805
+    second: NewMegaEntSuperPro2_11
+  - first:
+      213: -8463840837172780316
+    second: NewMegaEntSuperPro2_12
+  - first:
+      213: 3805251397592062407
+    second: NewMegaEntSuperPro2_13
+  - first:
+      213: 5491177358551773861
+    second: NewMegaEntSuperPro2_14
+  - first:
+      213: 8266063863489947895
+    second: NewMegaEntSuperPro2_15
+  - first:
+      213: 1644384325351331798
+    second: NewMegaEntSuperPro2_16
+  - first:
+      213: 321802966307472474
+    second: NewMegaEntSuperPro2_17
+  - first:
+      213: 6107751012762524464
+    second: NewMegaEntSuperPro2_18
+  - first:
+      213: 4316959337618366975
+    second: NewMegaEntSuperPro2_19
+  - first:
+      213: 8598965797802970648
+    second: NewMegaEntSuperPro2_20
+  - first:
+      213: -2544575559564813828
+    second: NewMegaEntSuperPro2_21
+  - first:
+      213: 6299385391535491992
+    second: NewMegaEntSuperPro2_22
+  - first:
+      213: 8219845275358591736
+    second: NewMegaEntSuperPro2_23
+  - first:
+      213: -2581223190350911923
+    second: NewMegaEntSuperPro2_24
+  - first:
+      213: 7662860344775768396
+    second: NewMegaEntSuperPro2_25
+  - first:
+      213: -4577080436597308389
+    second: NewMegaEntSuperPro2_26
+  - first:
+      213: 6287573255750070603
+    second: NewMegaEntSuperPro2_27
+  - first:
+      213: 956820839970431347
+    second: NewMegaEntSuperPro2_28
+  - first:
+      213: 773403448042115240
+    second: NewMegaEntSuperPro2_29
+  - first:
+      213: 3890418505243792024
+    second: NewMegaEntSuperPro2_30
+  - first:
+      213: -8392718972677382466
+    second: NewMegaEntSuperPro2_31
+  - first:
+      213: -3926973568416706889
+    second: NewMegaEntSuperPro2_32
+  - first:
+      213: -7840344431279251553
+    second: NewMegaEntSuperPro2_33
+  - first:
+      213: -230342266263235622
+    second: NewMegaEntSuperPro2_34
+  - first:
+      213: -1219003742417779291
+    second: NewMegaEntSuperPro2_35
+  - first:
+      213: -3742466854947293293
+    second: NewMegaEntSuperPro2_36
+  - first:
+      213: -1721179755264278246
+    second: NewMegaEntSuperPro2_37
+  - first:
+      213: -5726829947903414454
+    second: NewMegaEntSuperPro2_38
+  - first:
+      213: 7423114687287171388
+    second: NewMegaEntSuperPro2_39
+  - first:
+      213: 8913785242645226481
+    second: NewMegaEntSuperPro2_40
+  - first:
+      213: -8282969028810492762
+    second: NewMegaEntSuperPro2_41
+  - first:
+      213: -3941331444759397507
+    second: NewMegaEntSuperPro2_42
+  - first:
+      213: -1724648877861761896
+    second: NewMegaEntSuperPro2_43
+  - first:
+      213: -2521218102807709116
+    second: NewMegaEntSuperPro2_44
+  - first:
+      213: 1852678770131743164
+    second: NewMegaEntSuperPro2_45
+  - first:
+      213: -1618663641737318501
+    second: NewMegaEntSuperPro2_46
+  - first:
+      213: -579919943842447415
+    second: NewMegaEntSuperPro2_47
+  - first:
+      213: -5093065769347844107
+    second: NewMegaEntSuperPro2_48
+  - first:
+      213: 674468823616870523
+    second: NewMegaEntSuperPro2_49
+  - first:
+      213: -2391419769370547346
+    second: NewMegaEntSuperPro2_50
+  - first:
+      213: -259527670466417116
+    second: NewMegaEntSuperPro2_51
+  - first:
+      213: -9015452135082995684
+    second: NewMegaEntSuperPro2_52
+  - first:
+      213: 4309548965992174941
+    second: NewMegaEntSuperPro2_53
+  - first:
+      213: -4644391418534274836
+    second: NewMegaEntSuperPro2_54
+  - first:
+      213: 2618430114136708987
+    second: NewMegaEntSuperPro2_55
+  - first:
+      213: -6549871826996988979
+    second: NewMegaEntSuperPro2_56
+  - first:
+      213: -3174903223915042892
+    second: NewMegaEntSuperPro2_57
+  - first:
+      213: 1792960303904124459
+    second: NewMegaEntSuperPro2_58
+  - first:
+      213: 5981801425481577740
+    second: NewMegaEntSuperPro2_59
+  - first:
+      213: 7491421286440145547
+    second: NewMegaEntSuperPro2_60
+  - first:
+      213: 7004980160561697126
+    second: NewMegaEntSuperPro2_61
+  - first:
+      213: 2823006009537571668
+    second: NewMegaEntSuperPro2_62
+  - first:
+      213: -1901781776333733977
+    second: NewMegaEntSuperPro2_63
+  - first:
+      213: -4922932640348672055
+    second: NewMegaEntSuperPro2_64
+  - first:
+      213: 3596118676340077482
+    second: NewMegaEntSuperPro2_65
+  - first:
+      213: 875377896054708376
+    second: NewMegaEntSuperPro2_66
+  - first:
+      213: -4614366172964972268
+    second: NewMegaEntSuperPro2_67
+  - first:
+      213: -7820738260901386161
+    second: NewMegaEntSuperPro2_68
+  - first:
+      213: 1606022293610853770
+    second: NewMegaEntSuperPro2_69
+  - first:
+      213: 5679585099104855415
+    second: NewMegaEntSuperPro2_70
+  - first:
+      213: 4242303993745942504
+    second: NewMegaEntSuperPro2_71
+  - first:
+      213: 8642503020420507884
+    second: NewMegaEntSuperPro2_72
+  - first:
+      213: -2097103287552548681
+    second: NewMegaEntSuperPro2_73
+  - first:
+      213: -8268954453697175514
+    second: NewMegaEntSuperPro2_74
+  - first:
+      213: -7191319092357506951
+    second: NewMegaEntSuperPro2_75
+  - first:
+      213: 7819118912648263664
+    second: NewMegaEntSuperPro2_76
+  - first:
+      213: -1498972229124294719
+    second: NewMegaEntSuperPro2_77
+  - first:
+      213: -5058533654643697870
+    second: NewMegaEntSuperPro2_78
+  - first:
+      213: 2124586157331798229
+    second: NewMegaEntSuperPro2_79
+  - first:
+      213: -6156751417075981713
+    second: NewMegaEntSuperPro2_80
+  - first:
+      213: -7266535691652110638
+    second: NewMegaEntSuperPro2_81
+  - first:
+      213: -7989099598919543631
+    second: NewMegaEntSuperPro2_82
+  - first:
+      213: -1369205121205003008
+    second: NewMegaEntSuperPro2_83
+  - first:
+      213: 6167874418361225786
+    second: NewMegaEntSuperPro2_84
+  - first:
+      213: 5378256594680489917
+    second: NewMegaEntSuperPro2_85
+  - first:
+      213: 9209588341665565208
+    second: NewMegaEntSuperPro2_86
+  - first:
+      213: -4394500024381092825
+    second: NewMegaEntSuperPro2_87
+  - first:
+      213: 7481258517572856320
+    second: NewMegaEntSuperPro2_88
+  - first:
+      213: -2550518959956076056
+    second: NewMegaEntSuperPro2_89
+  - first:
+      213: -5057943002053834124
+    second: NewMegaEntSuperPro2_90
+  - first:
+      213: 4000487753789597917
+    second: NewMegaEntSuperPro2_91
+  - first:
+      213: -1621814020483788749
+    second: NewMegaEntSuperPro2_92
+  - first:
+      213: 1420011084188722982
+    second: NewMegaEntSuperPro2_93
+  - first:
+      213: -1844178279069521759
+    second: NewMegaEntSuperPro2_94
+  - first:
+      213: -6123114153966545298
+    second: NewMegaEntSuperPro2_95
+  - first:
+      213: 826329406208904449
+    second: NewMegaEntSuperPro2_96
+  - first:
+      213: 2829144803612962050
+    second: NewMegaEntSuperPro2_97
+  - first:
+      213: -6891438651068696452
+    second: NewMegaEntSuperPro2_98
+  - first:
+      213: 7644750433077400084
+    second: NewMegaEntSuperPro2_99
+  - first:
+      213: 9179284979503678637
+    second: NewMegaEntSuperPro2_100
+  - first:
+      213: -7237762838143513783
+    second: NewMegaEntSuperPro2_101
+  - first:
+      213: -5344518019848158762
+    second: NewMegaEntSuperPro2_102
+  - first:
+      213: -7763546794251838582
+    second: NewMegaEntSuperPro2_103
+  - first:
+      213: -9181129781418466880
+    second: NewMegaEntSuperPro2_104
+  - first:
+      213: 2522587730311554531
+    second: NewMegaEntSuperPro2_105
+  - first:
+      213: -4375838891423127726
+    second: NewMegaEntSuperPro2_106
+  - first:
+      213: -3317455335590436075
+    second: NewMegaEntSuperPro2_107
+  - first:
+      213: 2306658796627844552
+    second: NewMegaEntSuperPro2_108
+  - first:
+      213: 62187653960483804
+    second: NewMegaEntSuperPro2_109
+  - first:
+      213: -1969269910675580764
+    second: NewMegaEntSuperPro2_110
+  - first:
+      213: -4740363151871633175
+    second: NewMegaEntSuperPro2_111
+  - first:
+      213: -3126714601160187151
+    second: NewMegaEntSuperPro2_112
+  - first:
+      213: -4951866770413010851
+    second: NewMegaEntSuperPro2_113
+  - first:
+      213: -2120941270709225141
+    second: NewMegaEntSuperPro2_114
+  - first:
+      213: 6762699520765296193
+    second: NewMegaEntSuperPro2_115
+  - first:
+      213: 4630832292066506792
+    second: NewMegaEntSuperPro2_116
+  - first:
+      213: 2106800140092495703
+    second: NewMegaEntSuperPro2_117
+  - first:
+      213: 7734611577663667300
+    second: NewMegaEntSuperPro2_118
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 907
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a7585effc350ad0800000000000000
+      internalID: -2736714128792651151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 906
+        width: 68
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21ebeae91e66ca30800000000000000
+      internalID: 4235193557183095084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 994
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d635efbb7525f60800000000000000
+      internalID: 8021570351237655859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 906
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee7ae8ad6115f400800000000000000
+      internalID: 357210908128870114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 906
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62dbe8dfddea8190800000000000000
+      internalID: -7959287845751106964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 996
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41222ea590132c020800000000000000
+      internalID: 2360503070944797204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 906
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5641d77736070a300800000000000000
+      internalID: 261332350896247909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_7
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 906
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e3f8c06baee0f30800000000000000
+      internalID: 4543827141679070819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_8
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 906
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95df5a58bb13aadb0800000000000000
+      internalID: -4779953373029466791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_9
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 907
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791fb8f6c8c955340800000000000000
+      internalID: 4851956300542374295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_10
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 907
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f09c76460890ad10800000000000000
+      internalID: 2134873376093409528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_11
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 907
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa7137e6a6d42860800000000000000
+      internalID: 7504358891437783805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 806
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e22fd81a956a8a80800000000000000
+      internalID: -8463840837172780316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 807
+        width: 90
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9988a2cf7fec430800000000000000
+      internalID: 3805251397592062407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 807
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2752fc6b4943c40800000000000000
+      internalID: 5491177358551773861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 807
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8e202d945f6b270800000000000000
+      internalID: 8266063863489947895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 807
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d759c2e4d602d610800000000000000
+      internalID: 1644384325351331798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_17
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 890
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a548c66c716477400800000000000000
+      internalID: 321802966307472474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_18
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 802
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b1e349f2713c450800000000000000
+      internalID: 6107751012762524464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 802
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff16c8435abe8eb30800000000000000
+      internalID: 4316959337618366975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_20
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 808
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e87c575d9a55770800000000000000
+      internalID: 8598965797802970648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_21
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 808
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf99ff3a20adfacd0800000000000000
+      internalID: -2544575559564813828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_22
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 807
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b02c553a9eb6750800000000000000
+      internalID: 6299385391535491992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 702
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fafb623ab1c21270800000000000000
+      internalID: 8219845275358591736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 701
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46222d2f27ad2cd0800000000000000
+      internalID: -2581223190350911923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 701
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4979cd42e2f75a60800000000000000
+      internalID: 7662860344775768396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 701
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b144a34e791fa70c0800000000000000
+      internalID: -4577080436597308389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 701
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41ba382092f14750800000000000000
+      internalID: 6287573255750070603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 700
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371e0280c7f474d00800000000000000
+      internalID: 956820839970431347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 701
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0dc9c965eabba00800000000000000
+      internalID: 773403448042115240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_30
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 701
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89299a8a40b8df530800000000000000
+      internalID: 3890418505243792024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 701
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe12e59f82178b80800000000000000
+      internalID: -8392718972677382466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_32
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 702
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be8c2478569089c0800000000000000
+      internalID: -3926973568416706889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 603
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f53e89740813390800000000000000
+      internalID: -7840344431279251553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 598
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad31f92ede8adccf0800000000000000
+      internalID: -230342266263235622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 604
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a501590e8a351fe0800000000000000
+      internalID: -1219003742417779291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_36
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 604
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397713f4936101cc0800000000000000
+      internalID: -3742466854947293293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_37
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 604
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1101ecb1242d18e0800000000000000
+      internalID: -1721179755264278246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_38
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 604
+        width: 69
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fe52221863680b0800000000000000
+      internalID: -5726829947903414454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_39
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 605
+        width: 76
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c399cbe8a73340760800000000000000
+      internalID: 7423114687287171388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_40
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 606
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3ecff637024bb70800000000000000
+      internalID: 8913785242645226481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 607
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a43038ad8bfc0d80800000000000000
+      internalID: -8282969028810492762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 607
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bf90ddee39d49c0800000000000000
+      internalID: -3941331444759397507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c06c0bbf0d018e0800000000000000
+      internalID: -1724648877861761896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_44
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 507
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44abcd45e75d20dd0800000000000000
+      internalID: -2521218102807709116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 507
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb13c98868906b910800000000000000
+      internalID: 1852678770131743164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 508
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f286f6ef95989e0800000000000000
+      internalID: -1618663641737318501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_47
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 507
+        width: 80
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf3b1532e5b3f7f0800000000000000
+      internalID: -579919943842447415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_48
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 507
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7f150caabc159b0800000000000000
+      internalID: -5093065769347844107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_49
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 590
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7852c352d13c5900800000000000000
+      internalID: 674468823616870523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_50
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 586
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b62d9d368ffced0800000000000000
+      internalID: -2391419769370547346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_51
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 503
+        width: 73
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ee67075f8f56cf0800000000000000
+      internalID: -259527670466417116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_52
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 583
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1057de8c0ea2e280800000000000000
+      internalID: -9015452135082995684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_53
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 510
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d559d1c93f79ecb30800000000000000
+      internalID: 4309548965992174941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_54
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 507
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce85464ac9ecb8fb0800000000000000
+      internalID: -4644391418534274836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_55
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 507
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77dd46d058865420800000000000000
+      internalID: 2618430114136708987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_56
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 558
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3718ba64e2a15a0800000000000000
+      internalID: -6549871826996988979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_57
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 407
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b72d46d65a70f3d0800000000000000
+      internalID: -3174903223915042892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_58
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 406
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ee49a95efd1e810800000000000000
+      internalID: 1792960303904124459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_59
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 481
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0531ca14b0a30350800000000000000
+      internalID: 5981801425481577740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_60
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 406
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82901108ffd6f760800000000000000
+      internalID: 7491421286440145547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_61
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 481
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66150f09750b63160800000000000000
+      internalID: 7004980160561697126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_62
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 406
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ba74d32055d2720800000000000000
+      internalID: 2823006009537571668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_63
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 407
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aff05dec838b95e0800000000000000
+      internalID: -1901781776333733977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_64
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 407
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf67dea8da3eabb0800000000000000
+      internalID: -4922932640348672055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_65
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 407
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3f56112eaf7e130800000000000000
+      internalID: 3596118676340077482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_66
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 407
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898d19afe87f52c00800000000000000
+      internalID: 875377896054708376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_67
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 407
+        width: 83
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41918d4e96a76ffb0800000000000000
+      internalID: -4614366172964972268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_68
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 407
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48aaaddcf7277390800000000000000
+      internalID: -7820738260901386161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_69
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 453
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85780854ccb94610800000000000000
+      internalID: 1606022293610853770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 307
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7752fbf4e80f1de40800000000000000
+      internalID: 5679585099104855415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_71
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 394
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7a2707101bfda30800000000000000
+      internalID: 4242303993745942504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_72
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 307
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8a76605b650f770800000000000000
+      internalID: 8642503020420507884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_73
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 307
+        width: 69
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b06020cba795e2e0800000000000000
+      internalID: -2097103287552548681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_74
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 307
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620ee733cb5ce3d80800000000000000
+      internalID: -8268954453697175514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_75
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 307
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978db81036d433c90800000000000000
+      internalID: -7191319092357506951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_76
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 308
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f730fc3937138c60800000000000000
+      internalID: 7819118912648263664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_77
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 308
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7fed213b4923be0800000000000000
+      internalID: -1498972229124294719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_78
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 308
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2379a9e317a7cc9b0800000000000000
+      internalID: -5058533654643697870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_79
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 308
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d859728adb0c7d10800000000000000
+      internalID: 2124586157331798229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_80
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 308
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62adceb433de8aa0800000000000000
+      internalID: -6156751417075981713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_81
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 208
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6e067c944182b90800000000000000
+      internalID: -7266535691652110638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_82
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 208
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b45f2b2e34012190800000000000000
+      internalID: -7989099598919543631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_83
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 207
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d1ee5523b9ffce0800000000000000
+      internalID: -1369205121205003008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_84
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 207
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32d3adca11b89550800000000000000
+      internalID: 6167874418361225786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_85
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 208
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db725dca0e763aa40800000000000000
+      internalID: 5378256594680489917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_86
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 290
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a0e806dc70fcf70800000000000000
+      internalID: 9209588341665565208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_87
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 206
+        width: 71
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cc159c2899303c0800000000000000
+      internalID: -4394500024381092825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_88
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 206
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aabccfbf4c2d760800000000000000
+      internalID: 7481258517572856320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_89
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 289
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e95be6e48cba9cd0800000000000000
+      internalID: -2550518959956076056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_90
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 206
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a886443a39ec9b0800000000000000
+      internalID: -5057943002053834124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_91
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 288
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8ede4aa66948730800000000000000
+      internalID: 4000487753789597917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_92
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 284
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330d059bdb82e79e0800000000000000
+      internalID: -1621814020483788749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_93
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 206
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627af2abe84e4b310800000000000000
+      internalID: 1420011084188722982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_94
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 206
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8e19540a92866e0800000000000000
+      internalID: -1844178279069521759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_95
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 285
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6658ad5e14560ba0800000000000000
+      internalID: -6123114153966545298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_96
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 254
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d8a848736b77b00800000000000000
+      internalID: 826329406208904449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d2e7d9534234720800000000000000
+      internalID: 2829144803612962050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_98
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 106
+        width: 84
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7837ab2f01bc50a0800000000000000
+      internalID: -6891438651068696452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_99
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 106
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4129718e30c971a60800000000000000
+      internalID: 7644750433077400084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_100
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 106
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4456f0e0f536f70800000000000000
+      internalID: 9179284979503678637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_101
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 106
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bcee7cb0d4e8b90800000000000000
+      internalID: -7237762838143513783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_102
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 106
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1c64b6d2574d5b0800000000000000
+      internalID: -5344518019848158762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_103
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 106
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b1f7bd257524490800000000000000
+      internalID: -7763546794251838582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_104
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 184
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1eac58b13169080800000000000000
+      internalID: -9181129781418466880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_105
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 106
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5aafbec28020320800000000000000
+      internalID: 2522587730311554531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_106
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 107
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257a26266b5e543c0800000000000000
+      internalID: -4375838891423127726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_107
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 106
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51368ebe2f706f1d0800000000000000
+      internalID: -3317455335590436075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_108
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd580f44f5e20020800000000000000
+      internalID: 2306658796627844552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_109
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 6
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3cabf775fecd000800000000000000
+      internalID: 62187653960483804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_110
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 6
+        width: 79
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8115b237fbba4e0800000000000000
+      internalID: -1969269910675580764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_111
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6
+        width: 78
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8175234d8d63eb0800000000000000
+      internalID: -4740363151871633175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_112
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 90
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2e1d3e2adab94d0800000000000000
+      internalID: -3126714601160187151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_113
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 7
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50c87e886f674bb0800000000000000
+      internalID: -4951866770413010851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_114
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 7
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4939e9c627e092e0800000000000000
+      internalID: -2120941270709225141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_115
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 7
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e7be1426fe9dd50800000000000000
+      internalID: 6762699520765296193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_116
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 7
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82838073f65044040800000000000000
+      internalID: 4630832292066506792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_117
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 7
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757d4faa09bdc3d10800000000000000
+      internalID: 2106800140092495703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewMegaEntSuperPro2_118
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 7
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c344a004cd65b60800000000000000
+      internalID: 7734611577663667300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
